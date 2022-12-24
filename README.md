@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mulham</h1>
 <h3 align="center">Im a middle school student from syria.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mulhamnob9919&label=Profile%20views&color=0e75b6&style=flat" alt="mulhamnob9919" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MulhamNob9919](https://github.com/MulhamNob9919)
@@ -21,3 +19,7 @@
 <p><a href="https://www.buymeacoffee.com/mulham1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="mulham1" /></a></p><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mulhamnob9919&show_icons=true&locale=en&layout=compact" alt="mulhamnob9919" /></p>
+
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mulhamnob9919&label=Profile%20views&color=0e75b6&style=flat" alt="mulhamnob9919" /> </p>
