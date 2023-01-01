@@ -1,5 +1,5 @@
 <br>
 <hr>
-<h1 style="color: black; background-color:white;">?</h1>
+<h1 style="font-size: 24px;">?</h1>
 <hr>
 <br>
